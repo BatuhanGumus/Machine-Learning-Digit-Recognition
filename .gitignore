@@ -1,0 +1,10 @@
+
+*.user
+*.obj
+*.idb
+*.pdb
+*.vcxproj
+*.tlog
+*.log
+*.filters
+*.csv
