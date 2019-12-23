@@ -1,5 +1,5 @@
 # GuessDigitNN
-An object oriented Neural Network to guess digits
 
-I am getting into Neural Networks and this is a simple project for me to try stuff.
-Currently the project uses a sigmoid fuction as its activation function and back-propagation to learn.
+A machine learning project to guess digits drawn on a 28x28 picture.
+
+Using the classic data set MNIST from https://www.kaggle.com/c/digit-recognizer/overview. I wrote a neural network library from scratch and used Backpropagation to teach the ai.
